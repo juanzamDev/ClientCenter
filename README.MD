@@ -24,4 +24,7 @@ Este proyecto tiene como fin manejar las consultas de los clientes, los cuales l
 ## Actas
 En la carpeta actas de este repositorio encontrara las actas semanales en donde se especifican las funciones de cada uno de los miembros del equipo.
 
+# Base de datos
+En este mismo repositorio se encuentra el diagrama entidad relación de la base de datos de Client Center, asi como el script de inicialización de esta misma base de datos en python.
+
 
