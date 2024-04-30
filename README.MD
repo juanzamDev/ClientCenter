@@ -14,8 +14,8 @@ Bienvenido a ClientCenter, una solución centralizada para acceder rápidamente 
 ### [Repositorio Frontend](https://github.com/JuanZam21/ClientCenter_FrontEnd)
 En este repositorio esta el cosigo fuente de el fontend de la aplicacion el cual esta hecho con react js.
 
-### [Repositorio Backend Consultas](https://github.com/Alvaro747/BE_SISTEMAS_DISTRIBUIDOS )
-En este repositorio esta el codigo fuente de el backend para realizar las consultas a la base de datos. esta hecho con Node js.
+### [Repositorio Backend Consultas](https://github.com/JuanZam21/ClientCenter_BackEnd)
+En este repositorio esta el codigo fuente de el backend para realizar las consultas a la base de datos. esta hecho con Flask py.
 
 
 # Gestion de Sprint Trello
